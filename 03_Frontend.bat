@@ -4,7 +4,7 @@ title Batch Script to start frontend
 
 echo Batch Script to start frontend
 
-cd "IRProgramming05/"
+cd "SearchEngine_UI/"
 
 npm run ng serve --open
 

@@ -4,7 +4,7 @@ title Batch Script to start backend
 
 echo Batch Script to start backend
 
-cd "searchengine/"
+cd "SearchEngine_Backend/"
 
 ./mvnw spring-boot:run
 
